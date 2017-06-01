@@ -1,4 +1,4 @@
-# sample-2017-NDCLondon
+# A world of devices 
 My code samples for the NDC London conference, 19th of January 2017, London, UK
 
 # Presentation details, Slides
